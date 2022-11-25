@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/thiagomoraiis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomoraiis&show_icons=true&theme=cold-horizon&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraiis&layout=compact&langs_count=7&theme=cold-horizon"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomoraiis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraiis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <h2>Linguaguagens utilizadas</h2>
