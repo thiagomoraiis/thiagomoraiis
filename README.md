@@ -1,5 +1,5 @@
 <!-- <p>Ola! Tudo bom? Eu sou o Thiago Morais!<br>Sou estudante do Curso Técnico Integrado de Informatica no IFRN-Campus Pau dos Ferros<br>Gosto de desenvolvimento web e, no momento, estou aprendendo o Framework Django</p> -->
-<p>Ola! Tudo bom? Eu sou o Thiago Morais</p>
+<h3>Ola! Tudo bom? Eu sou o Thiago Morais</h3>
 <ul>
   <li>Sou estudante do Curso Técnico Integrado de Informatica no IFRN-Campus Pau dos Ferros</li>
   <li>Gosto de desenvolvimento web e, no momento, estou aprendendo o Framework Django</li>
