@@ -1,9 +1,9 @@
-<h1>Ola! Tudo bom? Eu sou o Thiago Morais! Atualmente, sou estudante do Curso Técnico Integrado de Informatica no IFRN-Campus Pau dos Ferros</h1>
+<p>Ola! Tudo bom? Eu sou o Thiago Morais! Atualmente, sou estudante do Curso Técnico Integrado de Informatica no IFRN-Campus Pau dos Ferros</p>
 
 <div align="center">
   <a href="https://github.com/thiagomoraiis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomoraiis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraiis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomoraiis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraiis&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <h2>Linguaguagens utilizadas</h2>
