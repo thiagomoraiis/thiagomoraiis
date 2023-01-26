@@ -1,10 +1,19 @@
 <!-- <p>Ola! Tudo bom? Eu sou o Thiago Morais!<br>Sou estudante do Curso Técnico Integrado de Informatica no IFRN-Campus Pau dos Ferros<br>Gosto de desenvolvimento web e, no momento, estou aprendendo o Framework Django</p> -->
-<h2>Ola! Tudo bom? Eu sou o Thiago Morais</h2>
+<h2>Hello, I'm Thiago!</h2>
+<!-- Hello, I'm Thiago! Currently, I am a student of the Integrated Computer Technician course at IFRN Campus Pau dos Ferros. 
+This is my repository on GitHub, where I share my projects and code.
+Feel free to take a look and suggest improvements.
+If you want to contribute to any project, please contact me and I will do my best to help you. Thanks for visiting! -->
 
-<ul>
+<p>Currently, I am a student of the Integrated Computer Technician course at IFRN Campus Pau dos Ferros. 
+This is my repository on GitHub, where I share my projects and code.
+Feel free to take a look and suggest improvements.
+If you want to contribute to any project, please contact me and I will do my best to help you. Thanks for visiting!</p>
+
+<!-- <ul>
   <li>Sou estudante do Curso Técnico Integrado de Informatica no IFRN-Campus Pau dos Ferros</li>
   <li>Gosto de desenvolvimento web e, no momento, estou aprendendo o Framework Django</li>
-</ul>
+</ul> -->
 
 <div style="display:flex; aling-itens: center; justify-content: center;width:100%;">
   <a href="https://github.com/thiagomoraiis">
