@@ -6,7 +6,7 @@
   <li>Gosto de desenvolvimento web e, no momento, estou aprendendo o Framework Django</li>
 </ul>
 
-<div style="display:flex; aling-itens: center; justify-content: center;">
+<div style="display:flex; aling-itens: center; justify-content: center;width:100%;">
   <a href="https://github.com/thiagomoraiis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomoraiis&theme=github_dark&show_icons=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraiis&layout=compact&langs_count=7&theme=dark"/> -->
