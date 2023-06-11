@@ -4,11 +4,7 @@
 This is my repository on GitHub, where I share my projects and code.
 Feel free to take a look and suggest improvements.
 If you want to contribute to any project, please contact me and I will do my best to help you. Thanks for visiting! -->
-
-<p>Currently, I am a student of the Integrated Computer Technician course at IFRN Campus Pau dos Ferros. 
-This is my repository on GitHub, where I share my projects and code.
-Feel free to take a look and suggest improvements.
-If you want to contribute to any project, please contact me and I will do my best to help you. Thanks for visiting!</p>
+<p>I'm a Back-End developer, but I'm also interested in Front-End. At the moment I'm learning JS and Django Rest Framework, for creating API's. I intend to dive deeper into the JS/TS universe later this year to become a Full-Stack Developer</p>
 
 <!-- <ul>
   <li>Sou estudante do Curso Técnico Integrado de Informatica no IFRN-Campus Pau dos Ferros</li>
