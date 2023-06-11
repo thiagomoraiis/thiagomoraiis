@@ -31,8 +31,10 @@ If you want to contribute to any project, please contact me and I will do my bes
   <img align="center" alt="Thiago-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/django/django-plain.svg">
+  <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Thiago-Django" height="30" width="40" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/django/django-plain.svg">
+  <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-plain.svg">
+  <img align="center" alt="Thiago-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg">
 </div>
   <br>
 </div>
