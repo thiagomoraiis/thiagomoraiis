@@ -5,7 +5,7 @@ This is my repository on GitHub, where I share my projects and code.
 Feel free to take a look and suggest improvements.
 If you want to contribute to any project, please contact me and I will do my best to help you. Thanks for visiting! -->
 
-<p>I am a Back-End developer, but I'm also interested in Front-End. Currently, I'm learning JS and Django Rest Framework to create APIs. I intend to delve deeper into the JS/TS universe later this year to become a Full-Stack Developer.</p>
+<p>I am a Back-End developer, but I'm also interested in Front-End. Currently, I'm learning JS. I intend to delve deeper into the JS/TS universe later this year to become a Full-Stack Developer.</p>
 
 
 <!-- <ul>
