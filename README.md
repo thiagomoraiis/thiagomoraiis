@@ -26,7 +26,7 @@ If you want to contribute to any project, please contact me and I will do my bes
   <h2>Skills</h2>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- <img align="center" alt="Thiago-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-plain.svg">-->
+  <img align="center" alt="Thiago-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Thiago-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
