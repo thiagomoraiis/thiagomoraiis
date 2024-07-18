@@ -12,8 +12,8 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Thiago-TypeScripy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Thiago-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thiago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Thiago-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
